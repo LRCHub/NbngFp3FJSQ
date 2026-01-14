@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "My Old Man",
+  "base_artist": "Mac DeMarco",
+  "createdAt": "2026-01-14T02:10:09.951692Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/01_My_Old_Man_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/02_My_Old_Man_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "Joni Mitchell",
+      "has_synced": true,
+      "path": "select/03_My_Old_Man_Joni_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Story Of My Old Man",
+      "artist": "Good Charlotte",
+      "has_synced": true,
+      "path": "select/04_The_Story_Of_My_Old_Man_Good_Charlotte.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "Good Charlotte",
+      "has_synced": true,
+      "path": "select/05_My_Old_Man_Good_Charlotte.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "Tonic",
+      "has_synced": true,
+      "path": "select/06_My_Old_Man_Tonic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "The Walkmen",
+      "has_synced": false,
+      "path": "select/07_My_Old_Man_The_Walkmen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "Ugly Kid Joe",
+      "has_synced": true,
+      "path": "select/08_My_Old_Man_Ugly_Kid_Joe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "Joni Mitchell",
+      "has_synced": true,
+      "path": "select/09_My_Old_Man_Joni_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/10_My_Old_Man_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "Steve Earle",
+      "has_synced": true,
+      "path": "select/11_My_Old_Man_Steve_Earle.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "John Denver",
+      "has_synced": false,
+      "path": "select/12_My_Old_Man_John_Denver.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "02 - My Old Man",
+      "artist": "Mitchell, Joni",
+      "has_synced": true,
+      "path": "select/13_02_-_My_Old_Man_Mitchell,_Joni.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "Jerry Jeff Walker",
+      "has_synced": false,
+      "path": "select/14_My_Old_Man_Jerry_Jeff_Walker.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Story Of My Old Man (Album Version)",
+      "artist": "Good Charlotte",
+      "has_synced": true,
+      "path": "select/15_The_Story_Of_My_Old_Man_(Album_Version)_Good_Charlotte.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "My Old Man Had a Pistol",
+      "artist": "The New Amsterdams",
+      "has_synced": true,
+      "path": "select/16_My_Old_Man_Had_a_Pistol_The_New_Amsterdams.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "My Old Man\\'s a Fatso",
+      "artist": "Angry Samoans",
+      "has_synced": true,
+      "path": "select/17_My_Old_Man_'s_a_Fatso_Angry_Samoans.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "My Old Man",
+      "artist": "Home Free",
+      "has_synced": true,
+      "path": "select/18_My_Old_Man_Home_Free.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "02. My Old Man",
+      "artist": "Joni Mitchell",
+      "has_synced": true,
+      "path": "select/19_02._My_Old_Man_Joni_Mitchell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "My Old Man",
+      "artist": "Mac DeMarco",
+      "has_synced": false,
+      "path": "select/pl_01_My_Old_Man_Mac_DeMarco.txt"
+    }
+  ]
+}
